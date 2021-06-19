@@ -63,3 +63,4 @@ while opcion_menu != 4:
         print(licencia) 
     else:
         print("Cerrando la aplicación, gracias, nuevocambio si.")
+        print("ahora con cmd")
