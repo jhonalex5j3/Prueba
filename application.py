@@ -62,4 +62,4 @@ while opcion_menu != 4:
         licencia = "Creative Commons" 
         print(licencia) 
     else:
-        print("Cerrando la aplicación, gracias.")
+        print("Cerrando la aplicación, gracias, nuevocambio si.")
